@@ -6,7 +6,7 @@ MachineLearning
 一些常见的机器学习算法的实现代码，本人学习过程中做的总结，资历尚浅，如有错误请不吝指出。
 
 
-##目录介绍
+## 目录介绍
 
 - **DeepLearning Tutorials**
 
@@ -64,7 +64,7 @@ MachineLearning
 
 	朴素贝叶斯算法的理论推导，以及三种常见模型（多项式模型，高斯模型，伯努利模型）的介绍与编程实现（基于Python，Numpy）。[文章链接](http://blog.csdn.net/u012162613/article/details/48323777)
 
-##Contributor
+## Contributor
 
 - [wepon](https://github.com/wepe)
 - [Gogary](https://github.com/enjoyhot)
